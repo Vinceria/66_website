@@ -17,7 +17,7 @@
         <div class="main-nav pull-right">
             <ul>
                 <li><a href="#" class="main-nav-link">Home</a></li>
-                <li><a href="#" class="main-nav-link">Managed Services</a></li>
+                <li><a href="#" class="main-nav-link">Manager Services</a></li>
                 <li><a href="#" class="main-nav-link">Clients</a></li>
                 <li><a href="#" class="main-nav-link">Partnerships</a></li>
                 <li><a href="#" class="main-nav-link">Strategy</a></li>
