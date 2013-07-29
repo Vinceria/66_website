@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>66 - Location</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superfish.js"></script>
+	 <script type="text/javascript" src="js/jquery.mobilemenu.js"></script>
+	 <script type="text/javascript" src="js/bgStretch.js"></script>
+	 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+   <script type="text/javascript" src="js/forms.js"></script>
+	 <script src="js/script.js"></script>
+	 <script type="text/javascript">
+		  $(function() {
+				$('#bgStretch')
+          .bgStretch({
+            align:'rightTop',
+            navigs:$('#bgNav').navigs({autoPlay:10000 , prevBtn:$('#prev_arr'), nextBtn:$('#next_arr')})
+          }).sImg({
+            spinner:$('.gall_spinner')
+          }) 
+			 });
+	 </script>
+	<!--[if lt IE 8]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+       <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+    </a>
+  </div>
+<![endif]-->
+    <!--[if lt IE 9]>
+   	<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+    <![endif]-->
+</head>
+<body>
+  <div id="bgStretch">
+    <img src="images/bg1.jpg" alt="">
+  </div>
+  <div id="bgNav">
+      <ul>
+        <li class="active"><a href="images/bg1.jpg"></a></li>
+        <li><a href="images/bg2.jpg"></a></li>
+        <li><a href="images/bg3.jpg"></a></li>
+      </ul>
+      <span class="gall_spinner"></span>
+  </div>
+<!--==============================header=================================-->
+   	<header>
+      <div class="header_stripe"></div>
+      <div class="container_12">
+        <div class="grid_12">
+          <h1><a class="logo" href="index.html">Maestro</a></h1>
+          <nav>
+              <ul class="sf-menu">
+                <li><a href="index-1.html">Main page</a></li>
+                <li class="bg_none separate"><a href="index-2.html">About us</a>
+                  <ul>
+                    <li><a href="#">Testimonials</a></li>
+                    <li><a href="#">Our Team</a></li>
+                  </ul>
+                </li>
+                <li><a href="index-3.html">Our menu</a></li>
+                <li class="bg_none last_it current"><a href="index-4.html">Our location</a></li>
+             </ul>
+             <div class="clear"></div>
+          </nav>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </header>
+<!--==============================content================================-->
+    <section id="content" class="cont_pad">
+    	<div class="container_12">
+        <div class="clearfix">
+          <article class="grid_7">
+            <h2 class="ind2">Location</h2>
+            <span class="map_wrapper img_wrap1">
+              <iframe id="map_canvas" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=66+Main+Street,+Blue+Hill,+ME&amp;aq=0&amp;oq=66+Main+Street&amp;sll=44.413436,-68.5877&amp;sspn=0.006353,0.013937&amp;ie=UTF8&amp;hq=&amp;hnear=66+Main+St,+Blue+Hill,+Maine+04614&amp;t=m&amp;ll=44.413367,-68.586788&amp;spn=0.021458,0.036478&amp;z=14&amp;output=embed"></iframe>
+            </span>
+            <div class="wrapper">
+              <div class="grid_3 alpha">
+                <strong class="black">66 Main Street, <br>Blue Hill, Maine 04614 </strong>
+              </div>
+              <div class="grid_4 omega">
+                Telephone:  +1.207.374.1055<br>
+                Email: <a href="mailto:info@66steakandseafood.com" class="link3">info@66steakandseafood.com</a>
+              </div>
+            </div>
+          </article>
+          <article class="grid_5 last-col">
+            <h2 class="ind2">Feedback</h2>
+            <form id="contact-form">
+                <div class="success">Contact form submitted!<br>
+                    <strong>We will be in touch soon.</strong>
+                </div>
+                <fieldset>
+                  <label class="name clearfix">
+                    <input type="text" value="Your Name:">
+                      <span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="phone clearfix">
+                    <input type="text" value="Telephone:">
+                      <span class="error">*This is not a valid phone number.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="email clearfix">
+                    <input type="text" value="E-mail:">
+                      <span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="message clearfix">
+                    <textarea>Message:</textarea>
+                      <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <div class="buttons2">
+                      <a href="#" data-type="reset" class="link2">Reset</a>
+                      <a href="mailto:info@66steakandseafood.com" data-type="submit" class="link2">Submit</a>
+                  </div>
+                </fieldset>
+            </form>
+          </article>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </section>
+<!--==============================footer=================================-->
+    <footer>
+      2013 &copy; <a href="index-5.html">Privacy Policy</a>
+    </footer>
+</body>
+</html>

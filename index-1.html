@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>66 - Home</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/superfish.js"></script>
+	 <script type="text/javascript" src="js/jquery.mobilemenu.js"></script>
+	 <script type="text/javascript" src="js/bgStretch.js"></script>
+	 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	 <script src="js/script.js"></script>
+	 <script type="text/javascript">
+		  $(window).load(function() {
+				$('#bgStretch')
+          .bgStretch({
+            align:'rightTop',
+            navigs:$('#bgNav').navigs({autoPlay:10000 , prevBtn:$('#prev_arr'), nextBtn:$('#next_arr')})
+          }).sImg({
+            spinner:$('.gall_spinner')
+          }) 
+			 });
+	 </script>
+	<!--[if lt IE 8]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+       <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+    </a>
+  </div>
+<![endif]-->
+    <!--[if lt IE 9]>
+   	<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+    <![endif]-->
+</head>
+<body>
+  <div id="bgStretch">
+    <img src="images/bg1.jpg" alt="">
+  </div>
+  <div id="bgNav">
+      <ul>
+        <li class="active"><a href="images/bg1.jpg"></a></li>
+        <li><a href="images/bg2.jpg"></a></li>
+        <li><a href="images/bg3.jpg"></a></li>
+      </ul>
+      <span class="gall_spinner"></span>
+  </div>
+<!--==============================header=================================-->
+   	<header>
+      <div class="header_stripe"></div>
+      <div class="container_12">
+        <div class="grid_12">
+          <h1><a class="logo" href="index.html">66 Steak and Seafood</a></h1>
+          <nav>
+              <ul class="sf-menu">
+                <li class="current"><a href="index-1.html">Home</a></li>
+                <li class="bg_none separate"><a href="index-2.html">About us</a>
+                  <ul>
+                    <li><a href="#">Testimonials</a></li>
+                    <li><a href="#">Our Team</a></li>
+                  </ul>
+                </li>
+                <li><a href="index-3.html">Menu</a></li>
+                <li class="bg_none last_it"><a href="index-4.html">Location</a></li>
+             </ul>
+             <div class="clear"></div>
+          </nav>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </header>
+<!--==============================content================================-->
+    <section id="content">
+    	<div class="container_12">
+        <div>
+          <article class="grid_7">
+            <h2 class="var1 ind">Hello!</h2>
+            <div class="ext_box hello clearfix">
+              <figure>
+                <a href="#" class="img_wrap1"><img src="images/2page_img1.jpg" alt=""></a>
+              </figure>
+              <div>
+                <ul class="list1">
+                  <li><strong class="black">Lorem ipsum dolor consectetur scing elit. Pa
+                    sellus eu placerat justo. Namdiet suscipit ac.</strong> Tristique liberoro porta. Donec id ante magnaullm sollicitudinsum vel henreritlioquam, nisi sapien qu.</li>
+                  <li>
+                    Ac tristique liberoro porta. Donec id ante magna. Nullam sollicitudinsum <a href="#" class="link1">vel henreritlio quam, nisia</a>
+pien pellentesque odio, sed tincidunt nibh turpisa
+t purus. Ut id magna auris. Sed luctus rhoncus n.
+                  </li>
+                  <li class="last">
+                    Ac tristique liberoro porta. Donec id ante magna. Nullam sollicitudinsum vel henreritlio quam, nisia
+pien pellentesque odio, sed tincidunt nibh turpisa.
+                  </li>
+                </ul>
+              </div>
+            </div> 
+            <a href="#" class="link2">More</a>
+          </article>
+          <article class="grid_5 last-col">
+            <h2 class="var2 ind">popular.</h2>
+            <ul class="ext_list popular_list">
+              <li class="clearfix">
+                <figure><a href="#" class="img_wrap1"><img src="images/popular1.jpg" alt=""></a></figure>
+                <div>
+                  <p class="p2">
+                    <strong class="black">Lorem ipsum dolor consectetur scing elit. Phasellus eu placerat. </strong>
+                  </p>
+                  <p>onec id ante magna. Nullam sollicit
+                    udinsum vel henreritlioquam nisisa.</p>
+                  <strong class="black">price: $15.55</strong>
+                </div>
+              </li>
+              <li class="clearfix last">
+                <figure><a href="#" class="img_wrap1"><img src="images/popular2.jpg" alt=""></a></figure>
+                <div>
+                  <p class="p2">
+                    <strong class="black">Lorem ipsum dolor consectetur scing elit. Phasellus eu placerat. </strong>
+                  </p>
+                  <p>onec id ante magna. Nullam sollicit
+                    udinsum vel henreritlioquam nisisa.</p>
+                  <strong class="black">price: $15.55</strong>
+                </div>
+              </li>
+            </ul>
+            <a href="#" class="link2">more</a>
+          </article>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </section>
+<!--==============================footer=================================-->
+    <footer>
+      2013 &copy; <a href="index-5.html">Privacy Policy</a>
+    </footer>
+</body>
+</html>

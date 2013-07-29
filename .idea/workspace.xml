@@ -1,12 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9364f316-8354-495d-9fb2-a2ea85fe0c3d" name="Default" comment="" />
+    <list default="true" id="9364f316-8354-495d-9fb2-a2ea85fe0c3d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cs-grailsPlugins.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cs.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/controllers/cs/AppController.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/app/index.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/error.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/layouts.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/581696_565632866792966_454067996_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/66beerlist copy (spring 2013) (3).JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/66mainstreetLOGO.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/facebook-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/madcouch_powered.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images2/restaurant-dot-com.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6_closure9_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cs/AppController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/resources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/resources.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/cs/AppControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/errors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/00000002" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/00000003" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/acer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/apple-touch-icon-retina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/grails_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/grails_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/ingram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/leftnav_btm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/leftnav_midstretch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/leftnav_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/lenovo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/madcouch_powered.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/msft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/silicon_chip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/database_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/database_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/database_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/database_save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/database_table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/information.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/shadow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/sorted_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/skin/sorted_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/springsource.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/js/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/js/bootstrap.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="66.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090612185" ignored="false" />
+    <file path="/Dummy.txt" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375129541053" ignored="false" />
     <file path="/main.gsp" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090559054" ignored="false" />
     <file path="$PROJECT_DIR$/../../MCdevtest/.idea/workspace.xml" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090611697" ignored="false" />
+    <file path="/index.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375128954716" ignored="false" />
+    <file path="/index-1.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375121082975" ignored="false" />
+    <file path="/style.css" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375126356579" ignored="false" />
+    <file path="/index-4.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375125061549" ignored="false" />
+    <file path="$PROJECT_DIR$/../ayniat/css/main.css" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375126869958" ignored="false" />
+    <file path="/main.css" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375126718241" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,20 +165,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="343" column="57" selection-start="8058" selection-end="8058" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.gsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="61" selection-start="790" selection-end="790" vertical-scroll-proportion="0.32130778">
-              <folding />
+            <state line="69" column="66" selection-start="3055" selection-end="3055" vertical-scroll-proportion="2.216274">
+              <folding>
+                <marker date="1375129400000" expanded="false" signature="1080:1132" placeholder="..." />
+                <marker date="1375129400000" expanded="true" signature="1133:1511" placeholder="..." />
+                <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+                <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,14 +207,23 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/site/index.html" />
+        <option value="$PROJECT_DIR$/site/index-2.html" />
+        <option value="$PROJECT_DIR$/site/index-3.html" />
+        <option value="$PROJECT_DIR$/site/index-5.html" />
+        <option value="$PROJECT_DIR$/site/index-1.html" />
+        <option value="$PROJECT_DIR$/site/index-4.html" />
+        <option value="$PROJECT_DIR$/site/css/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="29" />
-    <option name="width" value="1660" />
-    <option name="height" value="1010" />
+    <option name="x" value="8" />
+    <option name="y" value="44" />
+    <option name="width" value="1624" />
+    <option name="height" value="627" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -116,60 +269,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="66" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -180,11 +279,18 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
+      <server id="0953a48a-7f46-4c3a-b55b-49bb9bbfc8b8">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
       <server id="0a7a5ba6-2dc5-45f0-9b1b-68a950cd95eb">
         <serverdata>
           <mappings>
@@ -206,6 +312,9 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="30927efa-d0df-43f9-8392-091fb4b6c423">
+        <serverdata />
+      </server>
       <server id="be22f922-2911-4ffb-89f9-f4c6ca3ee4dd">
         <serverdata>
           <mappings>
@@ -216,16 +325,41 @@
       <server id="e5d2b60d-b41b-45d8-8883-2e7887e61a49">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" />
+            <mapping deploy="/" local="$PROJECT_DIR$/../ayniat" />
           </mappings>
         </serverdata>
       </server>
     </servers>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9364f316-8354-495d-9fb2-a2ea85fe0c3d" name="Default" comment="" />
@@ -244,27 +378,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="29" width="1660" height="1010" extended-state="0" />
-    <editor active="false" />
+    <frame x="8" y="44" width="1624" height="627" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32706767" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17228916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13546798" sideWeight="0.6729323" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -329,24 +464,53 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="66" selection-start="3055" selection-end="3055" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1375129400000" expanded="false" signature="1080:1132" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1133:1511" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1375129400000" expanded="false" signature="1080:1132" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1133:1511" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="343" column="57" selection-start="8058" selection-end="8058" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="61" selection-start="790" selection-end="790" vertical-scroll-proportion="0.32130778">
-          <folding />
+        <state line="69" column="66" selection-start="3055" selection-end="3055" vertical-scroll-proportion="2.216274">
+          <folding>
+            <marker date="1375129400000" expanded="false" signature="1080:1132" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1133:1511" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+            <marker date="1375129400000" expanded="true" signature="1249:1502" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
