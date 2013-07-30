@@ -44,7 +44,7 @@ body {
 
 /*==================================== Links ======================================================== */
 a {
-  color:#ffffff;
+  color:#424242;
   outline:none;
   text-decoration:none;
   cursor:pointer;
@@ -92,7 +92,7 @@ header h1 a {
   display:block;
   width:275px;
   height:110px;
-  background:url(../images/66_round_bar_right_logo_opq.png) 0 0 no-repeat;
+  background:url(../images/66_round_bar_right_FC_logo_opq.png) 0 0 no-repeat;
   text-decoration:none;
   text-indent:-9999px;
 }
@@ -131,7 +131,7 @@ h2,h3,h4{
   font-weight:normal;
 }
 h2{
-  font-size: 35px;
+  font-size: 30px;
   line-height: 63px;
   color:#4a4a4a;
   text-transform: uppercase;
@@ -320,9 +320,9 @@ a.img_wrap1:hover{background-color: #9A0707;}
 
 /****************************footer************************/
 footer, #splash footer{
-  height: 40px;
+  height: 50px;
   width: 100%;
-  padding: 20px 0 0;
+  padding: 15px 0 0;
   position: fixed;
   bottom: 0;
   left: 0;
