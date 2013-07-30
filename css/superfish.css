@@ -6,27 +6,27 @@ nav{ position:relative; margin: 0px 0 0; padding: 53px 0 0;}
 .sf-menu>li>a{
   display:block;
   position:relative;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 25px;
-  color:#2d2b2d;
+  color:#B19F19;
 }
 .sf-menu>li>a:hover,.sf-menu>li.current>a,.sf-menu>li.sfHover>a{
-  color: #798500;
+  color: #9A0707;
 }
 
 .sf-menu>li{
-  padding-right: 38px;
-  margin-right: 31px;
+  padding-right: 30px;
+  margin-right: 30px;
   position: relative;
   background: url('../images/nav_marker.png') right 11px no-repeat;
 }
-.sf-menu li.separate{margin-right: 360px;}
+.sf-menu li.separate{margin-right: 320px;}
 .last_it{padding-right: 0 !important;margin-right: 0 !important;}
 /*================================>> 2 Level <<========================================*/
-.sf-menu>li>ul,.sf-menu>li.sfHover>ul{left:-20px;top:40px;width: 110px;padding:15px 0 10px; z-index:99;background: #2d2b2d;}
+.sf-menu>li>ul,.sf-menu>li.sfHover>ul{left:-20px;top:40px;width: 110px;padding:15px 0 10px; z-index:99;background: #000000;}
 .sf-menu>li>ul>li{margin-bottom: 10px;text-align: center;}
-.sf-menu>li>ul>li>a{color: #fff;font-size: 14px;}
-.sf-menu li li a:hover, .sf-menu li.sfHover li.sfHover>a{color: #b5c700;}
+.sf-menu>li>ul>li>a{color: #B19F19;font-size: 14px;}
+.sf-menu li li a:hover, .sf-menu li.sfHover li.sfHover>a{color: #9A0707;}
 
 .sf-menu>li>a .menu-arrow{
     display:block;

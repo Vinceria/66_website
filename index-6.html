@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>66 - Home</title>
+    <title>66 - Location</title>
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
@@ -11,9 +11,10 @@
 	 <script type="text/javascript" src="js/jquery.mobilemenu.js"></script>
 	 <script type="text/javascript" src="js/bgStretch.js"></script>
 	 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+   <script type="text/javascript" src="js/forms.js"></script>
 	 <script src="js/script.js"></script>
 	 <script type="text/javascript">
-		  $(window).load(function() {
+		  $(function() {
 				$('#bgStretch')
           .bgStretch({
             align:'rightTop',
@@ -41,7 +42,7 @@
   </div>
   <div id="bgNav">
       <ul>
-        <li class="active"><a href="images/66_Charlieoutfront_bw_1600x869.jpg"></a></li>
+        <li class="active"><a href="images/bg1.jpg"></a></li>
         <li><a href="images/bg2.jpg"></a></li>
         <li><a href="images/bg3.jpg"></a></li>
       </ul>
@@ -74,93 +75,62 @@
         </div>
     </header>
 <!--==============================content================================-->
-    <section id="content">
+    <section id="content" class="cont_pad">
     	<div class="container_12">
-        <div>
+        <div class="clearfix">
           <article class="grid_7">
-            <h2 class="ind">Hello</h2>
-            <div class="ext_box hello clearfix">
-              <figure>
-                <a href="#" class="img_wrap1"><img src="images/2page_img1.jpg" alt=""></a>
-              </figure>
-              <div>
-                <ul class="list1">
-                  <li><strong class="black">Lorem ipsum dolor consectetur scing elit. Pa
-                    sellus eu placerat justo. Namdiet suscipit ac.</strong> Tristique liberoro porta. Donec id ante magnaullm sollicitudinsum vel henreritlioquam, nisi sapien qu.
-                  </li>
-
-                  <li>
-                    Ac tristique liberoro porta. Donec id ante magna. Nullam sollicitudinsum <a href="#" class="link1">vel henreritlio quam, nisia</a>
-                    pien pellentesque odio, sed tincidunt nibh turpisat purus. Ut id magna auris. Sed luctus rhoncus.
-                  </li>
-
-                  <li class="last">
-                    Ac tristique liberoro porta. Donec id ante magna. Nullam sollicitudinsum vel henreritlio quam, nisiapien pellentesque odio, sed tincidunt nibh turpisa.
-                  </li>
-                </ul>
+            <h2 class="ind2">Location</h2>
+            <span class="map_wrapper img_wrap1">
+              <iframe id="map_canvas" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=66+Main+Street,+Blue+Hill,+ME&amp;aq=0&amp;oq=66+Main+Street&amp;sll=44.413436,-68.5877&amp;sspn=0.006353,0.013937&amp;ie=UTF8&amp;hq=&amp;hnear=66+Main+St,+Blue+Hill,+Maine+04614&amp;t=m&amp;ll=44.413367,-68.586788&amp;spn=0.021458,0.036478&amp;z=14&amp;output=embed"></iframe>
+            </span>
+            <div class="wrapper">
+              <div class="grid_3 alpha">
+                <strong class="black">66 Main Street <br>Blue Hill, Maine 04614 </strong>
               </div>
-            </div> 
-            <a href="#" class="link2">More</a>
+              <div class="grid_4 omega">
+                Telephone:  <strong class="black">+1-207-374-1055</strong><br>
+                Email: <a href="mailto:info@66steakandseafood.com" class="link3">info@66steakandseafood.com</a>
+              </div>
+            </div>
           </article>
-
           <article class="grid_5 last-col">
-            <h2 class="ind">Popular</h2>
-            <ul class="ext_list popular_list">
-              <li class="clearfix">
-                <figure><a href="#" class="img_wrap1"><img src="images/popular1.jpg" alt=""></a></figure>
-                <div>
-                  <p class="p2">
-                    <strong class="black">Lorem ipsum dolor consectetur scing elit. Phasellus eu placerat. </strong>
-                  </p>
-                  <p>onec id ante magna. Nullam sollicit
-                    udinsum vel henreritlioquam nisisa.</p>
-                  <strong class="black">price: $15.55</strong>
+            <h2 class="ind2">Feedback</h2>
+            <form id="contact-form">
+                <div class="success">Contact form submitted!<br>
+                    <strong>We will be in touch soon.</strong>
                 </div>
-              </li>
-
-              <li class="clearfix last">
-                <figure><a href="#" class="img_wrap1"><img src="images/popular2.jpg" alt=""></a></figure>
-                <div>
-                  <p class="p2">
-                    <strong class="black">Lorem ipsum dolor consectetur scing elit. Phasellus eu placerat. </strong>
-                  </p>
-
-                  <p>
-                    onec id ante magna. Nullam sollicitudinsum vel henreritlioquam nisisa.
-                  </p>
-                  <strong class="black">price: $15.55</strong>
-                </div>
-              </li>
-            </ul>
-            <a href="#" class="link2">more</a>
+                <fieldset>
+                  <label class="name clearfix">
+                    <input type="text" value="Your Name:">
+                      <span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="phone clearfix">
+                    <input type="text" value="Telephone:">
+                      <span class="error">*This is not a valid phone number.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="email clearfix">
+                    <input type="text" value="E-mail:">
+                      <span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <label class="message clearfix">
+                    <textarea>Message:</textarea>
+                      <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
+                  </label>
+                  <div class="buttons2">
+                      <a href="#" data-type="reset" class="link2">Reset</a>
+                      <a href="mailto:info@66steakandseafood.com" data-type="submit" class="link2">Submit</a>
+                  </div>
+                </fieldset>
+            </form>
           </article>
           <div class="clear"></div>
         </div>
       </div>
     </section>
 <!--==============================footer=================================-->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <footer>
         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F66-Steak-Seafood%2F225743830781873&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &copy; 2013 &nbsp; 66 Steak and Seafood  |  All Rights Reserved  |  <a href="index-7.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ayniat.com" target="_blank"><img src="images/ayniat_powered_neg.png"></a><br>
     </footer>
-=======
-=======
->>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
-=======
->>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
-  <footer>
-      &copy; 2013 &nbsp; 66 Steak and Seafood  |  All Rights Reserved  |  <a href="index-5.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ayniat.com" target="_blank"><img src="images/ayniat_powered_neg.png"></a><br>
-      <!-- {%FOOTER_LINK} -->
-  </footer>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
-=======
->>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
-=======
->>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 </body>
 </html>
