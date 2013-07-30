@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="9364f316-8354-495d-9fb2-a2ea85fe0c3d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/66_roundlogo_100_110x110.png" afterPath="$PROJECT_DIR$/images/66_roundlogo_100_110x110.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/car_btn.png" afterPath="$PROJECT_DIR$/images/car_btn.png" />
@@ -58,6 +59,14 @@
     <file path="/main.gsp" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090559054" ignored="false" />
     <file path="$PROJECT_DIR$/../../MCdevtest/.idea/workspace.xml" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090611697" ignored="false" />
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
+    <list default="true" id="9364f316-8354-495d-9fb2-a2ea85fe0c3d" name="Default" comment="" />
+    <ignored path="66.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375131249360" ignored="false" />
+    <file path="/main.gsp" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090559054" ignored="false" />
+    <file path="$PROJECT_DIR$/../../MCdevtest/.idea/workspace.xml" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1374090611697" ignored="false" />
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
     <file path="/index.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375143830751" ignored="false" />
     <file path="/index-1.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375121082975" ignored="false" />
     <file path="/style.css" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375126356579" ignored="false" />
@@ -69,6 +78,9 @@
     <file path="/index-2.html" changelist="9364f316-8354-495d-9fb2-a2ea85fe0c3d" time="1375131931703" ignored="false" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -99,7 +111,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state line="12" column="38" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
+=======
+            <state line="346" column="20" selection-start="8153" selection-end="8153" vertical-scroll-proportion="0.0">
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
             <state line="346" column="20" selection-start="8153" selection-end="8153" vertical-scroll-proportion="0.0">
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -117,6 +133,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -306,6 +323,23 @@
             <state line="24" column="15" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-3.9230769">
               <folding>
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
+            <state line="14" column="46" selection-start="742" selection-end="742" vertical-scroll-proportion="-3.2289157">
+              <folding>
+                <marker date="1375143908725" expanded="false" signature="1080:1132" placeholder="..." />
+                <marker date="1375143908725" expanded="true" signature="1133:1511" placeholder="..." />
+                <marker date="1375143908725" expanded="true" signature="1249:1502" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="15" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-3.9230769">
+              <folding>
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
                 <marker date="1375132341239" expanded="false" signature="1075:1127" placeholder="..." />
                 <marker date="1375132341239" expanded="true" signature="1128:1506" placeholder="..." />
                 <marker date="1375132341239" expanded="true" signature="1244:1497" placeholder="..." />
@@ -362,6 +396,9 @@
                 <marker date="1375131826803" expanded="true" signature="1125:1503" placeholder="..." />
                 <marker date="1375131826803" expanded="true" signature="1241:1494" placeholder="..." />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -398,6 +435,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/css/superfish.css" />
         <option value="$PROJECT_DIR$/index-5.html" />
         <option value="$PROJECT_DIR$/index-2.html" />
@@ -410,6 +448,8 @@
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
         <option value="$PROJECT_DIR$/index-5.html" />
         <option value="$PROJECT_DIR$/index-3.html" />
         <option value="$PROJECT_DIR$/index-4.html" />
@@ -417,6 +457,9 @@
         <option value="$PROJECT_DIR$/index-1.html" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -431,11 +474,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="-1" />
     <option name="y" value="22" />
     <option name="width" value="1649" />
     <option name="height" value="795" />
 =======
+=======
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
@@ -518,6 +564,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   </component>
   <component name="PublishConfig">
     <servers>
@@ -567,6 +614,8 @@
         </serverdata>
       </server>
     </servers>
+=======
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
@@ -631,10 +680,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-1" y="22" width="1649" height="795" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257143" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="63" y="0" width="1376" height="627" extended-state="0" />
+    <editor active="false" />
+    <layout>
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
     <frame x="63" y="0" width="1376" height="627" extended-state="0" />
     <editor active="false" />
@@ -657,7 +712,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1334142" sideWeight="0.6742857" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13774733" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13774733" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -850,10 +909,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="66" selection-start="3055" selection-end="3055" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1375143908725" expanded="false" signature="1080:1132" placeholder="..." />
+            <marker date="1375143908725" expanded="true" signature="1133:1511" placeholder="..." />
+            <marker date="1375143908725" expanded="true" signature="1249:1502" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
+            <marker date="1375143908725" expanded="false" signature="1080:1132" placeholder="..." />
+            <marker date="1375143908725" expanded="true" signature="1133:1511" placeholder="..." />
+            <marker date="1375143908725" expanded="true" signature="1249:1502" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexdoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="66" selection-start="2890" selection-end="2890" vertical-scroll-proportion="-5.6923075">
+          <folding>
+            <marker date="1375131826803" expanded="false" signature="1072:1124" placeholder="..." />
+            <marker date="1375131826803" expanded="true" signature="1125:1503" placeholder="..." />
+            <marker date="1375131826803" expanded="true" signature="1241:1494" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="47" selection-start="2525" selection-end="2525" vertical-scroll-proportion="-3.0769231">
+          <folding>
+            <marker date="1375131908102" expanded="false" signature="1210:1262" placeholder="..." />
+            <marker date="1375131908102" expanded="true" signature="1263:1641" placeholder="..." />
+            <marker date="1375131908102" expanded="true" signature="1379:1632" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="47" selection-start="2443" selection-end="2443" vertical-scroll-proportion="-7.6538463">
+          <folding>
+            <marker date="1375131916966" expanded="false" signature="1128:1180" placeholder="..." />
+            <marker date="1375131916966" expanded="true" signature="1181:1559" placeholder="..." />
+            <marker date="1375131916966" expanded="true" signature="1297:1550" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="44" selection-start="2718" selection-end="2718" vertical-scroll-proportion="-41.846153">
+          <folding>
+            <marker date="1375131934445" expanded="false" signature="1079:1131" placeholder="..." />
+            <marker date="1375131934445" expanded="true" signature="1132:1510" placeholder="..." />
+            <marker date="1375131934445" expanded="true" signature="1248:1501" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.7692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/html5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="15" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-3.9230769">
+          <folding>
+<<<<<<< HEAD
             <marker date="1375143908725" expanded="false" signature="1080:1132" placeholder="..." />
             <marker date="1375143908725" expanded="true" signature="1133:1511" placeholder="..." />
             <marker date="1375143908725" expanded="true" signature="1249:1502" placeholder="..." />
@@ -1108,6 +1262,11 @@
             <marker date="1375132341239" expanded="true" signature="1128:1506" placeholder="..." />
             <marker date="1375132341239" expanded="true" signature="1244:1497" placeholder="..." />
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
+            <marker date="1375132341239" expanded="false" signature="1075:1127" placeholder="..." />
+            <marker date="1375132341239" expanded="true" signature="1128:1506" placeholder="..." />
+            <marker date="1375132341239" expanded="true" signature="1244:1497" placeholder="..." />
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
           </folding>
         </state>
       </provider>
@@ -1117,7 +1276,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state line="12" column="38" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
+=======
+        <state line="346" column="20" selection-start="8153" selection-end="8153" vertical-scroll-proportion="0.0">
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
         <state line="346" column="20" selection-start="8153" selection-end="8153" vertical-scroll-proportion="0.0">
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
@@ -1145,6 +1308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1185,6 +1349,8 @@
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
         <state line="14" column="46" selection-start="742" selection-end="742" vertical-scroll-proportion="-3.2289157">
           <folding>
             <marker date="1375143908725" expanded="false" signature="1080:1132" placeholder="..." />
@@ -1192,6 +1358,9 @@
             <marker date="1375143908725" expanded="true" signature="1249:1502" placeholder="..." />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
+=======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
 =======
 >>>>>>> 2a0cde5f79caa69e151793cf509e521d9c5cddbc
