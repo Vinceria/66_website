@@ -152,7 +152,7 @@ h2.var2{
   padding:5px 0 11px 124px;
 }
 
-h4{font-weight: bold;margin-bottom: 6px;}
+h4{font-size: 14px; font-weight: bold;margin-bottom: 6px;}
 /*================================>> GOOGLE FONTS  <<========================================*/
 .sf-menu>li>a, h2, .link2{font-family: 'Cambo', serif;}
 footer{font-family: 'Droid Sans', sans-serif;}
@@ -184,7 +184,7 @@ a.img_wrap1:hover{background-color: #9A0707;}
 
 .link2{
   color: #4a4a4a;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 25px;
   text-transform: uppercase;
   display: inline-block;
