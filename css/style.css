@@ -72,33 +72,33 @@ header:before{
 
 header {
   width: 100%;
-  padding: 0 0 63px;
+  padding: 0 0 70px;
   position: relative;
   margin-bottom: 152px;
   background: url('../images/header_66black.jpg') repeat;
 }
 
 header h1 {
-  width: 275px;
-  height: 110px;
+  width: 150px;
+  height: 225px;
   position: absolute;
   top: 19px;
   z-index: 999;
   left: 50%;
-  margin-left: -138px;
+  margin-left: -100px;
 }
 
 header h1 a {
   display:block;
-  width:275px;
-  height:110px;
-  background:url(../images/66_round_bar_right_FC_logo_opq.png) 0 0 no-repeat;
+  width:150px;
+  height:225px;
+  background:url(../images/66_roundlogo_ss_wht_100_115x120.png) 0 0 no-repeat;
   text-decoration:none;
   text-indent:-9999px;
 }
 
 /*********************************content*************************************/
-#content{padding:30px 0px 50px; margin-bottom: 40px; background: url('../images/content_66butcher.jpg') repeat;position: relative;}
+#content{padding:30px 0px 50px; margin-bottom: 40px; background: url('../images/content_butcher_paper_bkgrd2.jpg') repeat;position: relative;}
 
 }
 #content:after{

@@ -1,4 +1,4 @@
-nav{ position:relative; margin: 0px 0 0; padding: 53px 0 0;}
+nav{ position:relative; margin: 0px 0 0; padding: 60px 0 0;}
 .sf-menu ul {position:absolute;top:-999px; display:none;/* left offset of submenus need to match (see below) */}
 .sf-menu ul li {width:100%}
 .sf-menu li {float:left;position:relative}
@@ -20,7 +20,7 @@ nav{ position:relative; margin: 0px 0 0; padding: 53px 0 0;}
   position: relative;
   background: url('../images/nav_marker.png') right 11px no-repeat;
 }
-.sf-menu li.separate{margin-right: 320px;}
+.sf-menu li.separate{margin-right: 250px;}
 .last_it{padding-right: 0 !important;margin-right: 0 !important;}
 /*================================>> 2 Level <<========================================*/
 .sf-menu>li>ul,.sf-menu>li.sfHover>ul{left:-20px;top:40px;width: 110px;padding:15px 0 10px; z-index:99;background: #000000;}
