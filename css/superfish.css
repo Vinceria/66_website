@@ -25,7 +25,7 @@ nav{ position:relative; margin: 0px 0 0; padding: 60px 0 0;}
 /*================================>> 2 Level <<========================================*/
 .sf-menu>li>ul,.sf-menu>li.sfHover>ul{left:-20px;top:40px;width: 110px;padding:15px 0 10px; z-index:99;background: #000000;}
 .sf-menu>li>ul>li{margin-bottom: 10px;text-align: center;}
-.sf-menu>li>ul>li>a{color: #B19F19;font-size: 14px;}
+.sf-menu>li>ul>li>a{color: #B19F19; font-size: 14px;}
 .sf-menu li li a:hover, .sf-menu li.sfHover li.sfHover>a{color: #9A0707;}
 
 .sf-menu>li>a .menu-arrow{
