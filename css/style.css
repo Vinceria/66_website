@@ -212,6 +212,9 @@ a.img_wrap1:hover{background-color: #9A0707;}
 .popular_list>li>figure{
 	margin: 3px 20px 0 1px;
 }
+
+.newsletter{ border-top: 5px solid #9A0707; border-left: 5px solid #9A0707; border-right: 5px solid #9A0707; border-bottom: 5px solid #9A0707; padding-bottom: 0px;}
+
 /*********************************page_2*************************************/
 .testimonials>li{margin-bottom: 33px;}
 .testimonials>li>div{}
