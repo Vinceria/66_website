@@ -1,6 +1,0 @@
-List of Fonts used in template 
-
-Allura		http://www.google.com/webfonts/specimen/Allura
-Cambo		http://www.google.com/webfonts/specimen/Cambo
-Droid Sans	http://www.google.com/webfonts/specimen/Droid+Sans
-
