@@ -74,7 +74,7 @@ header {
   width: 100%;
   padding: 0 0 70px;
   position: relative;
-  margin-bottom: 152px;
+  margin-bottom: 155px;
   background: url('../images/header_66black.jpg') repeat;
 }
 
@@ -82,7 +82,7 @@ header h1 {
   width: 150px;
   height: 225px;
   position: absolute;
-  top: 19px;
+  top: 15px;
   z-index: 999;
   left: 50%;
   margin-left: -100px;
@@ -92,7 +92,7 @@ header h1 a {
   display:block;
   width:150px;
   height:225px;
-  background:url(../images/66_roundlogo_ss_wht_100_115x120.png) 0 0 no-repeat;
+  background:url(../images/66_round_Wgold_SS_100_116x132.png) 0 0 no-repeat;
   text-decoration:none;
   text-indent:-9999px;
 }
