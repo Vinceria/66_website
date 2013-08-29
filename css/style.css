@@ -166,11 +166,16 @@ h4{
     margin-bottom: 6px;
 }
 
+.style6 {
+    color: #4F3335;}
+
 /*================================>> GOOGLE FONTS  <<========================================*/
 .sf-menu>li>a, h2, .link2{font-family: 'Cambo', serif;}
 footer{font-family: 'Droid Sans', sans-serif;}
 /*================================>> hovers <<========================================*/
 .img_wrap1{-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;}
+
+.img_wrap2{-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;}
 
 /*********************************page_1*************************************/
 .ext_list>li, .ext_box{position: relative;}
@@ -190,6 +195,21 @@ a.img_wrap1:hover{background-color: #9A0707;}
 .hello>div{}
 .hello>figure{
 	margin: 4px 20px 0 1px;
+}
+
+.img_wrap2{
+    display: inline-block;
+    background: #fff;
+    border-radius:5px;
+    padding: 4px;
+    box-shadow: 0 0 3px #9A0707;
+}
+
+a.img_wrap2:hover{background-color: #9A0707;}
+.hello{}
+.hello>div{}
+.hello>figure{
+    margin: 4px 20px 0 1px;
 }
 
 .link1{text-decoration: underline;color: #424242;}
