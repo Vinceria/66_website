@@ -227,6 +227,21 @@ a.img_wrap2:hover{background-color: #9A0707;}
   color: #9A0707;
 }
 
+.link3{color: #9A0707;font-weight: bold;}
+.link3:hover{color: #010101;}
+
+.link4{
+    color: #b5b2b0;
+    font-size: 12px;
+    line-height: 25px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-top: 6px;
+}
+.link4:hover{
+    color: #ffffff;
+}
+
 .popular_list>li{margin-bottom: 34px;}
 .popular_list>li>div{}
 .popular_list>li>figure{
@@ -245,8 +260,6 @@ a.img_wrap2:hover{background-color: #9A0707;}
   padding: 0 0 19px 30px;
   background: url('../images/quotes.png') 0 4px no-repeat;
 }
-.link3{color: #9A0707;font-weight: bold;}
-.link3:hover{color: #010101;}
 
 .team_list{}
 .team_list>li{margin-bottom: 37px;}
@@ -383,6 +396,10 @@ footer .social a:first-child{margin: 0 0 0 0;}
 footer .social a:hover img{
   margin-top:-32px;
 }
+
+.footer-nav{padding-top: 6px;}
+.footer-nav > ul{ list-style: none;}
+.footer-nav > ul > li { display: inline; padding-left: 6px;}
 
 
 /*==================================RESPONSIVE LAYOUTS===============================================*/
